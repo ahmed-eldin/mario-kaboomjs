@@ -1,7 +1,6 @@
 
 
 <img width="866" alt="Screenshot 2023-07-31 at 2 32 55 PM" src="https://github.com/ahmed-eldin/mario-kaboomjs/assets/111728755/0f7fc6d3-a7fe-4289-ab7b-c65ea1eb660f">
-)
 
 
 # Mario Kaboom.js
