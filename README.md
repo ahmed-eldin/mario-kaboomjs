@@ -19,6 +19,10 @@ To run the game locally on your machine, follow these steps:
 1.) Clone this repository to your local machine.
 
 2.) Open the index.html file in your web browser.
+
+
+
+
 ## How to Play:
 
 1.) Use the arrow keys to move Mario left and right.
@@ -32,14 +36,21 @@ To run the game locally on your machine, follow these steps:
 5.)Be cautious of pits, obstacles, and enemies that can harm Mario.
 ## Contributing
 
+
+
+
 Contributions are always welcome!
 
 If you would like to contribute to the improvement of this Mario game, feel free to open a pull request with your proposed changes. Your contributions are greatly appreciated!
 
 
+
+
 ## Authors
 
 - [@ahmed-eldin](https://www.github.com/ahmed-eldin)
+
+
 
 
 ## 🚀 About Me
