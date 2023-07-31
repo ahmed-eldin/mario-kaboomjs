@@ -1,7 +1,7 @@
 
 
-
-![App Screenshot](file:///var/folders/p3/zftv4zyd0h9183lw7c4hbwlc0000gn/T/TemporaryItems/NSIRD_screencaptureui_d02Ze4/Screenshot%202023-07-31%20at%202.33.12%20PM.png)
+<img width="866" alt="Screenshot 2023-07-31 at 2 32 55 PM" src="https://github.com/ahmed-eldin/mario-kaboomjs/assets/111728755/0f7fc6d3-a7fe-4289-ab7b-c65ea1eb660f">
+)
 
 
 # Mario Kaboom.js
